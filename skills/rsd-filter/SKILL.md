@@ -104,7 +104,7 @@ Keep it factual:
     ## Sensitivities
     Anything about this relationship that lands hard, so the next run knows.
 
-When the underlying thread pull is large or hard to reconstruct, also save the raw messages beside the sender files as `YYYY-MM-DD-<name-slug>-correspondence-raw.md`. One consolidated raw file per run, not one per thread.
+When the underlying thread pull is large or hard to reconstruct, also save the raw messages beside the sender files as `YYYY-MM-DD-<name-slug>-correspondence-raw.md`. One consolidated raw file per run, not one per thread. Gmail keeps the original, so once the summary is delivered the raw file moves to `99-archive/` at its same path (a spent file).
 
 Treat both files as private. They will contain financial position, health context and other people's disclosures. Nothing in them is ever content, for any channel.
 
